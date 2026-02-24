@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rick Sanchez Player",
+      "deck": [1, 2, 3, 5, 8, 21, 47, 118, 242, 361]
+    },
+    {
+      "id": 2,
+      "name": "Evil Morty Fan",
+      "deck": [4, 6, 18, 22, 45, 71, 94, 150, 265, 338]
+    },
+    {
+      "id": 3,
+      "name": "Interdimensional Gamer",
+      "deck": [7, 10, 14, 20, 35, 63, 86, 175, 300, 435]
+    }
+  ]
+}
