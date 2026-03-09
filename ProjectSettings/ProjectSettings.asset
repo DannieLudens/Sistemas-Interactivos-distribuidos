@@ -786,10 +786,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 75262cb6-cced-4791-8280-678710e7619e
+  cloudProjectId: ac0cca78-a945-42bd-abcb-68581a52daa5
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: SID-HTTP-Test
+  projectName: Sistemas-Interactivos-distribuidos
   organizationId: daniel_ea
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
